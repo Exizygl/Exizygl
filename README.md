@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **vassseurba@gmail.com**
 
--  My website **https://vasseurcv.fr**
+-  My website **[https://vasseurcv.fr](https://vbpresentation-github-io.onrender.com)**
 
--  E-commerce website exemple **https://trade-corner.onrender.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
