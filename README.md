@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bastien ,a software engineer from France</h1>
-<h3 align="center">I'm currently looking for a company in the north of France to help get experience and join a formation of designer developper of app in DevOps made by Simplon at Lille</h3>
+<h3 align="center">I'm currently doing a CDA with sinplom and I'm looking for a company in the north of France do an intership this August</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exizygl" alt="exizygl" /></a> </p>
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **react, NodeJS, my goal**
 
