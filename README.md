@@ -2,7 +2,6 @@
 
 ### I'm looking for a company in the north of France.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exizygl" alt="exizygl" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **React, NodeJS, PHP, JavaScript, TailwindCSS**
