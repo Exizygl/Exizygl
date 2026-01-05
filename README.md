@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bastien, a software engineer from France
 
-### I'm currently doing a CDA with Sinplom and I'm looking for a company in the north of France for an internship this August
+### I'm looking for a company in the north of France.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exizygl" alt="exizygl" /></a> </p>
 
