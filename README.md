@@ -55,10 +55,6 @@
 
 ### 📊 **GitHub Stats:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exizygl&show_icons=true&locale=en&layout=compact" alt="exizygl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exizygl&show_icons=true&locale=en" alt="exizygl" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exizygl&" alt="exizygl" /></p>
 
 ---
