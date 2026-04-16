@@ -1,6 +1,6 @@
-# Hi 👋, I'm Bastien, a software engineer from France
+# Hi 👋, I'm Bastien, a Data Scientist from France
 
-### I'm looking for a company in the north of France.
+### I'm looking for a company in the north of France for an intership in data Science for october, I'll be 3 weeks with you and 1 week in formation.
 
 
 - 🌱 I’m currently learning **Python**
