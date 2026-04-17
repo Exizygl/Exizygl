@@ -55,9 +55,7 @@
 </p>
 
 ---
-
 <h3 align="center">⚙️ Methodology</h3>
-
 <p align="center">
   <strong>Agile (Scrum)</strong> • <strong>CI/CD</strong>
 </p>
@@ -65,23 +63,25 @@
 ---
 
 <h3 align="center">🧠 Other Skills</h3>
-
 <p align="center">
   Application Architecture • Requirement Analysis • Unit & Functional Testing
 </p>
+
 ---
 
-### 📲 **Connect with me:**
-
-<p align="left">
-  <a href="https://linkedin.com/in/bastvas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastvas" height="30" width="40" /></a>
+<h3 align="center">📲 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/bastvas" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+  </a>
 </p>
 
 ---
 
-### 📊 **GitHub Stats:**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exizygl&" alt="exizygl" /></p>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exizygl" />
+</p>
 
 ---
 
