@@ -15,7 +15,7 @@ with a schedule of <strong>3 weeks in company / 1 week in training</strong>.
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-🌱 Currently learning <strong>Python & Data Science</strong><br/>
+🌱 Currently learning <strong>Python</strong><br/>
 💬 Ask me about <strong>React, Node.js, PHP, JavaScript, TailwindCSS</strong><br/>
 📫 Reach me at: <strong>vassseurba@gmail.com</strong><br/>
 🌐 Portfolio: <a href="https://vbpresentation-github-io.onrender.com">vasseurcv.fr</a><br/>
