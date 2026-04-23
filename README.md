@@ -4,7 +4,7 @@
 <h3>🇫🇷 Data Engineer</h3>
 
 <p>
-🚀 I’m currently looking for a <strong>Data Science internship starting October</strong> in Northern France,<br/>
+🚀 I’m currently looking for a <strong>Data Engineer internship starting October</strong> in Northern France,<br/>
 with a schedule of <strong>3 weeks in company / 1 week in training</strong>.
 </p>
 
