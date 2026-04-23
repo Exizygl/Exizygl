@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Bastien</h1>
-<h3>🇫🇷 Data Scientist | Aspiring AI & Full-Stack Developer</h3>
+<h3>🇫🇷 Data Engineer</h3>
 
 <p>
 🚀 I’m currently looking for a <strong>Data Science internship starting October</strong> in Northern France,<br/>
